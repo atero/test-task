@@ -7,7 +7,7 @@ use Illuminate\Foundation\Testing\WithoutMiddleware;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Foundation\Testing\DatabaseTransactions;
 
-use App\Helpers\Contracts\ISerializer;
+
 use App\Helpers\Serializer;
 
 class SerializerTest extends TestCase
